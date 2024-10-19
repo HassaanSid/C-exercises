@@ -1,6 +1,4 @@
-
 #include <stdio.h>
-
 
 void pay_amount(int, int *, int*, int*, int*);
 
